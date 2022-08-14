@@ -7,5 +7,5 @@
     3) Implement score and Level system on the basis of Number of rows Cleared.
     4) Implement UI to display Score, Level.
     
-### Geme Play Video Link : https://user-images.githubusercontent.com/99596032/184523479-bb1a9aa6-595e-41f7-8e04-820258c366b6.mp4
+Geme Play Video Link : https://user-images.githubusercontent.com/99596032/184523479-bb1a9aa6-595e-41f7-8e04-820258c366b6.mp4
 
